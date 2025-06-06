@@ -1,0 +1,2 @@
+Q2: What field could data science be applied to? Give an Example. 
+Answer: Data science can be applied to almost any field that uses data to make decisions. One field that data science can be applied to is artificial intelligence (AI). One example is training a self-driving car, where data science is used to process and analyze large amount of data from cameras, sensors, etc. which is used to detect pedestrians and vehicles, recognize traffic signs, etc. 
